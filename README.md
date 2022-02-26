@@ -1,4 +1,4 @@
-# Pop-Discussion-Repo
+# Pop-Discussion-Repo 💬
 This repository is just for general discussion and troubleshooting.
 
 1. To talk go to the "Discussions" tab.
